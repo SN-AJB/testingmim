@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>bob.ross</sys_created_by>
+        <sys_created_on>2023-03-14 13:29:02</sys_created_on>
+        <sys_id>d7ebdd06db21e9109e7a21fb1396198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_wer_wer_weerwer.x_snc_wer_wer.user</sys_name>
+        <sys_package display_value="wer;wer" source="x_snc_wer_wer">c0265ca7db34ad509e7a21fb13961978</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wer;wer">c0265ca7db34ad509e7a21fb13961978</sys_scope>
+        <sys_security_acl display_value="x_snc_wer_wer_weerwer">13ebdd06db21e9109e7a21fb1396198a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d7ebdd06db21e9109e7a21fb1396198c</sys_update_name>
+        <sys_updated_by>bob.ross</sys_updated_by>
+        <sys_updated_on>2023-03-14 13:29:02</sys_updated_on>
+        <sys_user_role display_value="x_snc_wer_wer.user" name="x_snc_wer_wer.user">00265ca7db34ad509e7a21fb1396199b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="wer;wer">c0265ca7db34ad509e7a21fb13961978</application>
+        <file_path/>
+        <instance_id>c22a163edb6027006578f22ebf96198e</instance_id>
+        <instance_name>empabarnes</instance_name>
+        <name>sys_security_acl_role_d7ebdd06db21e9109e7a21fb1396198c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>bob.ross</sys_created_by><sys_created_on>2023-03-14 13:29:02</sys_created_on><sys_id>d7ebdd06db21e9109e7a21fb1396198c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_wer_wer_weerwer.x_snc_wer_wer.user</sys_name><sys_package display_value="wer;wer" source="x_snc_wer_wer">c0265ca7db34ad509e7a21fb13961978</sys_package><sys_policy/><sys_scope display_value="wer;wer">c0265ca7db34ad509e7a21fb13961978</sys_scope><sys_security_acl display_value="x_snc_wer_wer_weerwer">13ebdd06db21e9109e7a21fb1396198a</sys_security_acl><sys_update_name>sys_security_acl_role_d7ebdd06db21e9109e7a21fb1396198c</sys_update_name><sys_updated_by>bob.ross</sys_updated_by><sys_updated_on>2023-03-14 13:29:02</sys_updated_on><sys_user_role display_value="x_snc_wer_wer.user" name="x_snc_wer_wer.user">00265ca7db34ad509e7a21fb1396199b</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>821873910</payload_hash>
+        <record_name>x_snc_wer_wer_weerwer.x_snc_wer_wer.user</record_name>
+        <reverted_from/>
+        <source>80265ca7db34ad509e7a21fb1396197a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>bob.ross</sys_created_by>
+        <sys_created_on>2023-03-14 13:29:02</sys_created_on>
+        <sys_id>dbebdd06db21e9109e7a21fb1396198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186e04f5c760000001</sys_recorded_at>
+        <sys_updated_by>bob.ross</sys_updated_by>
+        <sys_updated_on>2023-03-14 13:29:02</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>13ebdd060721e910626479998f014c8e</update_guid>
+        <update_guid_history>13ebdd060721e910626479998f014c8e:821873910</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_wer_wer_weerwer.x_snc_wer_wer.user">202fb7b0db79a5509e7a21fb13961920</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2023-03-23 14:25:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0b155edc12a046b6808cb206caeeda11</sys_id>
+        <sys_metadata>d7ebdd06db21e9109e7a21fb1396198c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_wer_wer_weerwer.x_snc_wer_wer.user</sys_name>
+        <sys_package display_value="wer;wer" source="x_snc_wer_wer">c0265ca7db34ad509e7a21fb13961978</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="wer;wer">c0265ca7db34ad509e7a21fb13961978</sys_scope>
+        <sys_scope_delete display_value="">0367c835d6734c8380b1d6a45fb5c8b9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_d7ebdd06db21e9109e7a21fb1396198c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_d7ebdd06db21e9109e7a21fb1396198c">dbebdd06db21e9109e7a21fb1396198e</sys_update_version>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2023-03-23 14:25:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

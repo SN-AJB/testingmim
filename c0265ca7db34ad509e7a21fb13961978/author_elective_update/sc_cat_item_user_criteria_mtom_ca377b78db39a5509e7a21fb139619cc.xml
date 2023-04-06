@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="weeeee">691fe730db39a5509e7a21fb13961921</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2023-03-23 13:50:49</sys_created_on>
+        <sys_id>ca377b78db39a5509e7a21fb139619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>weeeee.Any User</sys_name>
+        <sys_package display_value="wer;wer" source="x_snc_wer_wer">c0265ca7db34ad509e7a21fb13961978</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wer;wer">c0265ca7db34ad509e7a21fb13961978</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_ca377b78db39a5509e7a21fb139619cc</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2023-03-23 13:50:49</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="wer;wer">c0265ca7db34ad509e7a21fb13961978</application>
+        <file_path/>
+        <instance_id>c22a163edb6027006578f22ebf96198e</instance_id>
+        <instance_name>empabarnes</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_ca377b78db39a5509e7a21fb139619cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="weeeee">691fe730db39a5509e7a21fb13961921</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>andrew.barnes@snc</sys_created_by><sys_created_on>2023-03-23 13:50:49</sys_created_on><sys_id>ca377b78db39a5509e7a21fb139619cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>weeeee.Any User</sys_name><sys_package display_value="wer;wer" source="x_snc_wer_wer">c0265ca7db34ad509e7a21fb13961978</sys_package><sys_policy/><sys_scope display_value="wer;wer">c0265ca7db34ad509e7a21fb13961978</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_ca377b78db39a5509e7a21fb139619cc</sys_update_name><sys_updated_by>andrew.barnes@snc</sys_updated_by><sys_updated_on>2023-03-23 13:50:49</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>754206411</payload_hash>
+        <record_name>weeeee.Any User</record_name>
+        <reverted_from/>
+        <source>80265ca7db34ad509e7a21fb1396197a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2023-03-23 13:50:49</sys_created_on>
+        <sys_id>c2377b78db39a5509e7a21fb139619d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1870ebc88d40000001</sys_recorded_at>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2023-03-23 13:50:49</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>46377b78b539a550e10d35c767d015d0</update_guid>
+        <update_guid_history>46377b78b539a550e10d35c767d015d0:754206411</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="weeeee.Any User">fa37bb78db39a5509e7a21fb13961944</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2023-03-23 13:50:52</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>171f3a9a44024c6c85d7452ada935f10</sys_id>
+        <sys_metadata>ca377b78db39a5509e7a21fb139619cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>weeeee.Any User</sys_name>
+        <sys_package display_value="wer;wer" source="x_snc_wer_wer">c0265ca7db34ad509e7a21fb13961978</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="wer;wer">c0265ca7db34ad509e7a21fb13961978</sys_scope>
+        <sys_scope_delete display_value="">0367c835d6734c8380b1d6a45fb5c8b9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_ca377b78db39a5509e7a21fb139619cc</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_ca377b78db39a5509e7a21fb139619cc">c2377b78db39a5509e7a21fb139619d1</sys_update_version>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2023-03-23 13:50:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

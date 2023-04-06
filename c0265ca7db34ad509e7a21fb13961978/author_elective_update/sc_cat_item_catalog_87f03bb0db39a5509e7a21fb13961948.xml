@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="weeeee">691fe730db39a5509e7a21fb13961921</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2023-03-23 13:23:35</sys_created_on>
+        <sys_id>87f03bb0db39a5509e7a21fb13961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.weeeee</sys_name>
+        <sys_package display_value="wer;wer" source="x_snc_wer_wer">c0265ca7db34ad509e7a21fb13961978</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wer;wer">c0265ca7db34ad509e7a21fb13961978</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_87f03bb0db39a5509e7a21fb13961948</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2023-03-23 13:23:35</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="wer;wer">c0265ca7db34ad509e7a21fb13961978</application>
+        <file_path/>
+        <instance_id>c22a163edb6027006578f22ebf96198e</instance_id>
+        <instance_name>empabarnes</instance_name>
+        <name>sc_cat_item_catalog_87f03bb0db39a5509e7a21fb13961948</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="weeeee">691fe730db39a5509e7a21fb13961921</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>andrew.barnes@snc</sys_created_by><sys_created_on>2023-03-23 13:23:35</sys_created_on><sys_id>87f03bb0db39a5509e7a21fb13961948</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.weeeee</sys_name><sys_package display_value="wer;wer" source="x_snc_wer_wer">c0265ca7db34ad509e7a21fb13961978</sys_package><sys_policy/><sys_scope display_value="wer;wer">c0265ca7db34ad509e7a21fb13961978</sys_scope><sys_update_name>sc_cat_item_catalog_87f03bb0db39a5509e7a21fb13961948</sys_update_name><sys_updated_by>andrew.barnes@snc</sys_updated_by><sys_updated_on>2023-03-23 13:23:35</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1580211828</payload_hash>
+        <record_name>Service Catalog.weeeee</record_name>
+        <reverted_from/>
+        <source>80265ca7db34ad509e7a21fb1396197a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2023-03-23 13:23:35</sys_created_on>
+        <sys_id>87f03bb0db39a5509e7a21fb1396194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1870ea3987c0000001</sys_recorded_at>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2023-03-23 13:23:35</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>0bf03bb04439a5502520a8e5dd04124a</update_guid>
+        <update_guid_history>0bf03bb04439a5502520a8e5dd04124a:1580211828</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.weeeee">8061bfb0db39a5509e7a21fb1396194b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2023-03-23 13:25:18</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>468b7d92e8f545a38fad4ee53bf20b09</sys_id>
+        <sys_metadata>87f03bb0db39a5509e7a21fb13961948</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.weeeee</sys_name>
+        <sys_package display_value="wer;wer" source="x_snc_wer_wer">c0265ca7db34ad509e7a21fb13961978</sys_package>
+        <sys_parent display_value="weeeee">691fe730db39a5509e7a21fb13961921</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="wer;wer">c0265ca7db34ad509e7a21fb13961978</sys_scope>
+        <sys_scope_delete display_value="">0367c835d6734c8380b1d6a45fb5c8b9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_87f03bb0db39a5509e7a21fb13961948</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_87f03bb0db39a5509e7a21fb13961948">87f03bb0db39a5509e7a21fb1396194b</sys_update_version>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2023-03-23 13:25:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

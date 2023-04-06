@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_wer_wer.user" name="x_snc_wer_wer.user">00265ca7db34ad509e7a21fb1396199b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2023-02-09 17:27:53</sys_created_on>
+        <sys_id>48265ca7db34ad509e7a21fb1396199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>00265ca7db34ad509e7a21fb1396199b</sys_name>
+        <sys_package display_value="wer;wer" source="x_snc_wer_wer">c0265ca7db34ad509e7a21fb13961978</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wer;wer">c0265ca7db34ad509e7a21fb13961978</sys_scope>
+        <sys_update_name>sys_embedded_help_role_48265ca7db34ad509e7a21fb1396199b</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2023-02-09 17:27:53</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
