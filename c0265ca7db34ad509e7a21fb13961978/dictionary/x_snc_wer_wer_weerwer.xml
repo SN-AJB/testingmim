@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="ddeb1d06db21e9109e7a21fb139619df" extends="task" label="weerwer" max_length="40" name="x_snc_wer_wer_weerwer" type="collection"/>
+    <element db_object_id="ddeb1d06db21e9109e7a21fb139619df" extends="task" label="Refund" max_length="40" name="x_snc_wer_wer_weerwer" type="collection">
+        <element label="PO Number" max_length="40" name="po_number" type="string"/>
+        <element label="Refund Reason" max_length="200" name="refund_reason" type="string"/>
+        <element label="Vendor" max_length="32" name="vendor" reference="core_company" type="reference"/>
+    </element>
 </database>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <action_status/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <ih_action>false</ih_action>
+        <internal_name>attachmentthings</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>attachmentthings</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2023-04-17 21:50:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2fa45e89db9ae5109e7a21fb13961998</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>attachmentthings</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Refund" source="x_snc_wer_wer">c0265ca7db34ad509e7a21fb13961978</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Refund">c0265ca7db34ad509e7a21fb13961978</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_2fa45e89db9ae5109e7a21fb13961998</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2023-04-17 21:50:10</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=2fa45e89db9ae5109e7a21fb13961998"/>
+    <sys_variable_value action="delete_multiple" query="document_key=2fa45e89db9ae5109e7a21fb13961998"/>
+    <sys_hub_step_instance action="delete_multiple" query="action=2fa45e89db9ae5109e7a21fb13961998"/>
+    <sys_hub_action_input action="delete_multiple" query="model=2fa45e89db9ae5109e7a21fb13961998"/>
+    <sys_hub_action_output action="delete_multiple" query="model=2fa45e89db9ae5109e7a21fb13961998"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=2fa45e89db9ae5109e7a21fb13961998"/>
+    <sys_hub_action_status_metadata action="delete_multiple" query="action_type_id=2fa45e89db9ae5109e7a21fb13961998"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_2fa45e89db9ae5109e7a21fb13961998"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_input_2fa45e89db9ae5109e7a21fb13961998"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_2fa45e89db9ae5109e7a21fb13961998"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_output_2fa45e89db9ae5109e7a21fb13961998"/>
+    <sys_hub_action_plan action="delete_multiple" query="action_id=2fa45e89db9ae5109e7a21fb13961998"/>
+</record_update>
